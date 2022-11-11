@@ -1,0 +1,5 @@
+@media (max-width: 1440px) { 
+    .hero__caption {
+        font-size: 12vw;
+    }
+}
